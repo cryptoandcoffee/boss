@@ -1,0 +1,4 @@
+﻿name="boss"
+symbol="boss"
+daemon="bitcoinbossd"
+cli="bitcoinbossd"
